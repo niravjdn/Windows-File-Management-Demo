@@ -1,0 +1,18 @@
+c:\users\nirav patel\documents\visual studio 2013\Projects\FileManagement\FileManagement\bin\Debug\FileManagement.exe.config
+c:\users\nirav patel\documents\visual studio 2013\Projects\FileManagement\FileManagement\obj\Debug\FileManagement.csprojResolveAssemblyReference.cache
+c:\users\nirav patel\documents\visual studio 2013\Projects\FileManagement\FileManagement\obj\Debug\FileManagement.Form1.resources
+c:\users\nirav patel\documents\visual studio 2013\Projects\FileManagement\FileManagement\obj\Debug\FileManagement.Properties.Resources.resources
+c:\users\nirav patel\documents\visual studio 2013\Projects\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.GenerateResource.Cache
+c:\users\nirav patel\documents\visual studio 2013\Projects\FileManagement\FileManagement\bin\Debug\FileManagement.exe
+c:\users\nirav patel\documents\visual studio 2013\Projects\FileManagement\FileManagement\bin\Debug\FileManagement.pdb
+c:\users\nirav patel\documents\visual studio 2013\Projects\FileManagement\FileManagement\obj\Debug\FileManagement.exe
+c:\users\nirav patel\documents\visual studio 2013\Projects\FileManagement\FileManagement\obj\Debug\FileManagement.pdb
+C:\Users\Nirav Patel\Desktop\FileManagement\FileManagement\bin\Debug\FileManagement.exe.config
+C:\Users\Nirav Patel\Desktop\FileManagement\FileManagement\obj\Debug\FileManagement.exe
+C:\Users\Nirav Patel\Desktop\FileManagement\FileManagement\obj\Debug\FileManagement.pdb
+C:\Users\Nirav Patel\Desktop\FileManagement\FileManagement\bin\Debug\FileManagement.exe
+C:\Users\Nirav Patel\Desktop\FileManagement\FileManagement\bin\Debug\FileManagement.pdb
+C:\Users\Nirav Patel\Desktop\FileManagement\FileManagement\obj\Debug\FileManagement.csprojResolveAssemblyReference.cache
+C:\Users\Nirav Patel\Desktop\FileManagement\FileManagement\obj\Debug\FileManagement.Form1.resources
+C:\Users\Nirav Patel\Desktop\FileManagement\FileManagement\obj\Debug\FileManagement.Properties.Resources.resources
+C:\Users\Nirav Patel\Desktop\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.GenerateResource.Cache
